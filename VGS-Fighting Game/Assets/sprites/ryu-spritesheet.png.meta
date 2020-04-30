@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: e8106b3fd7797dc4fb39c34e2ac0bef1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2143556862093686564
+    second: ryu-idle0
+  - first:
+      213: 2215793189428150803
+    second: ryu-idle0
+  - first:
+      213: -2323705183685226975
+    second: ryu-idle1
+  - first:
+      213: 8175056969786923324
+    second: ryu-idle2
+  - first:
+      213: 5902119727576206003
+    second: ryu-idle3
+  - first:
+      213: -3903297152852257981
+    second: ryu-idle4
+  - first:
+      213: 2343123358034311986
+    second: ryu-idle0
+  - first:
+      213: 2215793189428150803
+    second: ryu-walk0
+  - first:
+      213: 2010684211341564075
+    second: ryu-jab0
+  - first:
+      213: 4750577579641597613
+    second: ryu-jab1
+  - first:
+      213: -4760424626677622443
+    second: ryu-jab2
+  - first:
+      213: -5518898514844835318
+    second: ryu-walk4
+  - first:
+      213: 2343123358034311986
+    second: ryu-walk5
+  - first:
+      213: -6557675766113729772
+    second: ryu-walk1
+  - first:
+      213: -8741034945902020871
+    second: ryu-walk2
+  - first:
+      213: -1151521927169528650
+    second: ryu-walk3
+  - first:
+      213: -1334063327070421936
+    second: ryu-walk6
+  - first:
+      213: -6590101589631925166
+    second: ryu-walk7
+  - first:
+      213: -2223092577025052016
+    second: ryu-walk8
+  - first:
+      213: 1689223085060427118
+    second: ryu-walk9
+  - first:
+      213: 2864005859603148658
+    second: ryu-walk10
+  - first:
+      213: 5750322727527588949
+    second: ryu-walk11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ryu-idle1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2620
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e45bb627a80cfd0800000000000000
+      internalID: -2323705183685226975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-idle2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2620
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391bbe2003a37170800000000000000
+      internalID: 8175056969786923324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-idle3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2620
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba41081f9a88e150800000000000000
+      internalID: 5902119727576206003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-idle4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2620
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34392778be3b4d9c0800000000000000
+      internalID: -3903297152852257981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-jab0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2268
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8108c13a267eb10800000000000000
+      internalID: 2010684211341564075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-jab1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2268
+        width: 94
+        height: 100
+      alignment: 9
+      pivot: {x: 0.35818204, y: 0.50000256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee87893217de140800000000000000
+      internalID: 4750577579641597613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-jab2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2268
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559dbda16039fedb0800000000000000
+      internalID: -4760424626677622443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2503
+        width: 55
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312489f7a2410ce10800000000000000
+      internalID: 2215793189428150803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2503
+        width: 62
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4138a9082a47ef4a0800000000000000
+      internalID: -6557675766113729772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2503
+        width: 66
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6fb38570b91b680800000000000000
+      internalID: -8741034945902020871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2503
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcacf388e8f400f0800000000000000
+      internalID: -1151521927169528650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2503
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022e378a0fe863b0800000000000000
+      internalID: -5518898514844835318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk5
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2504
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b3e8c9742748020800000000000000
+      internalID: 2343123358034311986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk6
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2508
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c7712e8747c7de0800000000000000
+      internalID: -1334063327070421936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2508
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254804425814b84a0800000000000000
+      internalID: -6590101589631925166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk8
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2508
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0923d93641df521e0800000000000000
+      internalID: -2223092577025052016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk9
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2508
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d8a6b2273517710800000000000000
+      internalID: 1689223085060427118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk10
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2508
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f6848b72efeb720800000000000000
+      internalID: 2864005859603148658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ryu-walk11
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2508
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554232edd004dcf40800000000000000
+      internalID: 5750322727527588949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
